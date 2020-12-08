@@ -1,4 +1,4 @@
-package com.archiver;
+package com.archiver.filemanager;
 
 import java.io.File;
 import java.io.IOException;

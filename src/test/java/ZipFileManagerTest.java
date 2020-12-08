@@ -1,13 +1,12 @@
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-import com.archiver.ZipFileManager;
+import com.archiver.filemanager.ZipFileManager;
 import java.io.File;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.io.TempDir;
 import org.zeroturnaround.zip.ZipUtil;
-import org.zeroturnaround.zip.commons.FileUtils;
 
 class ZipFileManagerTest {
 

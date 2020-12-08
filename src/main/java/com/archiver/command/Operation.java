@@ -1,4 +1,4 @@
-package com.archiver;
+package com.archiver.command;
 
 public enum Operation {
   CREATE,

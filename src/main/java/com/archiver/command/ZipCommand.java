@@ -1,7 +1,7 @@
 package com.archiver.command;
 
-import com.archiver.ConsoleHelper;
-import com.archiver.ZipFileManager;
+import com.archiver.console.ConsoleHelper;
+import com.archiver.filemanager.ZipFileManager;
 import java.io.IOException;
 import java.nio.file.Path;
 import java.nio.file.Paths;

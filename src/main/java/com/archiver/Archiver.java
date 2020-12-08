@@ -1,5 +1,8 @@
 package com.archiver;
 
+import com.archiver.command.CommandExecutor;
+import com.archiver.command.Operation;
+import com.archiver.console.ConsoleHelper;
 import java.io.IOException;
 
 public class Archiver {

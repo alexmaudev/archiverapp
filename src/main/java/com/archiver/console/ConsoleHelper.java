@@ -1,4 +1,4 @@
-package com.archiver;
+package com.archiver.console;
 
 import java.io.BufferedReader;
 import java.io.IOException;

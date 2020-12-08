@@ -1,9 +1,5 @@
-package com.archiver;
+package com.archiver.command;
 
-import com.archiver.command.Command;
-import com.archiver.command.ExitCommand;
-import com.archiver.command.ZipCreateCommand;
-import com.archiver.command.ZipExtractCommand;
 import java.io.IOException;
 import java.util.EnumMap;
 import java.util.Map;
